@@ -1,3 +1,3 @@
-EMAIL_ADDRESS = "ultimate6364@gmail.com"
-PASSWORD = "Ultimate6364@#"
+EMAIL_ADDRESS = "your email"
+PASSWORD = "your email password"
 NAME = "naekh khout"
